@@ -8,6 +8,14 @@ slider to explore any group size from 0 to 365.
 - **Monte Carlo simulation** — thousands of randomized trials per point,
   re-run live whenever the slider moves
 
+## Output
+
+![Birthday paradox slider demo](assets/demo.gif)
+
+*Dragging the slider to n = 23 shows the exact probability (≈50.7%) and a
+live Monte Carlo estimate (≈50.1%) converge closely — the classic "23
+people" threshold where a shared birthday becomes more likely than not.*
+
 ## Features
 
 - Exact-formula curve and a pre-computed Monte Carlo curve plotted together
